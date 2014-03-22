@@ -1,7 +1,7 @@
-puts "hello there nigga what\'s your name?"
+puts "hello there man what\'s your name?"
 name = gets.chomp
-puts "aight now what's yo bitches name?"
-bitch = gets.chomp
-puts "true true, now how much does she owe you?"
+puts "aight now what's your friend's name?"
+friend = gets.chomp
+puts "true true, now how much do you owe him?"
 money = gets.chomp
-puts bitch + " my name is " + name + " and you better have my " + money + " or i'mma wear yo ass out"
+puts friend + " my name is " + name + ". Here's " + money + "! :)"
